@@ -1,2 +1,3 @@
-EP1 da matéria de Computação Orientada a Objetos. O ep consiste na implementação do jogo Onitama. Confirir o PDF para mais detalhes.
-Trabalho realizado em dupla.
+- Esse programa consiste no Exercício Programa 1 da matéria de Computação Orientada a Objetos. 
+- O EP consiste na implementação do jogo Onitama (confirir o PDF para mais detalhes).
+- Trabalho realizado em dupla (Ana Beatriz R. Chagas e André Palácio).
